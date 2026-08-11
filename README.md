@@ -1,28 +1,8 @@
 # 👋 Hi, I'm G.K.Y. Kaushallya
 
-<table>
-<tr>
-<td width="55%" valign="middle">
-
-<h3>💻 Software Engineering Undergraduate</h3>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=500&lines=Aspiring+Software+Engineer;Full-Stack+Web+Developer;Backend+Developer;Building+Practical+Solutions+%F0%9F%9A%80;Always+Learning+%26+Growing+%F0%9F%8C%B1" alt="Typing Animation" />
-
-<br/>
-
-<p>
-Passionate about building practical, user-focused and scalable software solutions.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineering+Undergraduate;Aspiring+Software+Engineer;Full-Stack+Web+Developer;Building+Practical+Software+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
-
-</td>
-
-<td width="45%" align="center">
-
-<img src="https://undraw.co/api/illustrations/website-setup_o2zf.svg" width="380" alt="Software Development Illustration"/>
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -65,7 +45,7 @@ I enjoy working across the **frontend, backend, and database layers** of applica
 
 ### 🌱 GreenRent — Sustainable Apartment Finder
 
-A sustainable apartment-finding and booking platform designed to help users discover environmentally friendly accommodation.
+> A sustainable apartment-finding and booking platform designed to help users discover environmentally friendly accommodation.
 
 **My Contribution**
 
@@ -82,7 +62,7 @@ A sustainable apartment-finding and booking platform designed to help users disc
 
 ### 🏥 MediSync — AI-Enabled Smart Healthcare Platform
 
-A smart healthcare platform designed for appointment management and telemedicine using a **microservices architecture**.
+> A smart healthcare platform designed for appointment management and telemedicine using a **microservices architecture**.
 
 **My Contribution**
 
@@ -99,7 +79,7 @@ A smart healthcare platform designed for appointment management and telemedicine
 
 ### 🍃 Ceylon Eco Foods — Factory Management System
 
-A MERN-stack-based food processing factory management system developed as a Year 2 Semester 2 group project.
+> A MERN-stack-based food processing factory management system developed as a Year 2 Semester 2 group project.
 
 **My Contribution**
 
@@ -125,17 +105,14 @@ A MERN-stack-based food processing factory management system developed as a Year
 ## 🎯 Currently Learning
 
 <p align="center">
-  🌐 <strong>Full-Stack Web Development</strong>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  ⚙️ <strong>Backend Development</strong>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  🏗️ <strong>Software Architecture</strong>
-  <br/><br/>
-  🗄️ <strong>Database Design</strong>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  🔌 <strong>REST API Development</strong>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  🤖 <strong>AI & Modern Technologies</strong>
+
+🌐 **Full-Stack Web Development**
+⚙️ **Backend Development**
+🏗️ **Software Architecture**
+🗄️ **Database Design**
+🔌 **REST API Development**
+🤖 **AI & Modern Technologies**
+
 </p>
 
 ---
@@ -165,7 +142,7 @@ I'm currently looking for opportunities where I can:
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer"/>
 </p>
 
 <p align="center">
