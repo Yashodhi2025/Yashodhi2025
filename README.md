@@ -102,8 +102,10 @@ I enjoy working across the **frontend, backend, and database layers** of applica
     width="78%"
     alt="GitHub Activity"
   />
+  
 </p>
----
+
+
 
 ## 🎯 Currently Learning
 
