@@ -97,7 +97,7 @@ I enjoy working across the **frontend, backend, and database layers** of applica
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashodhi2025&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub Activity Graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yashodhi2025&theme=tokyonight" width="95%" alt="GitHub Profile Summary"/>
 </p>
 
 ---
